@@ -1,5 +1,5 @@
 # Macy Beach
 
-Email: maybe@udel.edu 
+[Email](maybe@udel.edu)
 
-Github repository: https://github.com/maybeep/maybeep.github.io.git
+[Github repository](https://github.com/maybeep/maybeep.github.io.git)
