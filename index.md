@@ -1,10 +1,9 @@
 # Macy Beach
 
-<heading>
-    <img src="mugshot.jpeg" alt="MacyBeach" style="float:left;padding:25px25px25px25px;width:100px;height:100px;">
+![Macy Beach!](mugshot.jpeg)
 
-    <maybe@udel.edu>
+<maybe@udel.edu>
 
-    [Github repository](https://github.com/maybeep/maybeep.github.io.git)
-</heading>
+[Github repository](https://github.com/maybeep/maybeep.github.io.git)
+
 
