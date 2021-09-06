@@ -2,7 +2,7 @@
      alt="Macy Beach mugshot"
      style="float: left; margin-right: 30px; width:300px;" />
 
-## Macy Beach
+### Macy Beach
 
 University of Delaware Computer Science B.S. '23
 
