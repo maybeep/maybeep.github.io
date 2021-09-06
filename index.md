@@ -2,7 +2,7 @@
 
 <img src="mugshot.jpeg"
      alt="Macy Beach mugshot"
-     style="float: left; margin-right: 10px; width:100px;" />
+     style="float: left; margin-right: 30px; width:300px;" />
 
 <maybe@udel.edu>
 
