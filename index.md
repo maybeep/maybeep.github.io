@@ -14,6 +14,6 @@ Email: <maybe@udel.edu>
 ## Technologies &amp; Concepts Mastered
 
 - Basics of the Web
-    - HTML
-    - CSS
-    - JavaScript
+    - **HTML:** I made an [HTML Reference Guide](html_site.html) in HTML. 
+    - **CSS:** 
+    - **JavaScript:** 
