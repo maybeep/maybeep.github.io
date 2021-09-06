@@ -10,3 +10,10 @@
 Email: <maybe@udel.edu>
 
 [Github repository](https://github.com/maybeep/maybeep.github.io.git) 
+
+## Technologies &amp; Concepts Mastered
+
+- Basics of the Web
+    - HTML
+    - CSS
+    - JavaScript
