@@ -1,7 +1,7 @@
 # Macy Beach
 
 <heading>
-    <img src="mugshot.jpeg" alt="MacyBeach" style="float:left;padding:0px25px0px0px;width:100px;height:100px;">
+    <img src="mugshot.jpeg" alt="MacyBeach" style="float:left;padding:25px25px25px25px;width:100px;height:100px;">
 
     <maybe@udel.edu>
 
