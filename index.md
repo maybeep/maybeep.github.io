@@ -17,6 +17,18 @@ Email: <maybe@udel.edu>
     - **HTML:** I made an [HTML Reference Guide](html_site.html) in HTML. 
         - I used tables to organize HTML tags with their explanations. 
         - I learned about HTML escape characters so I could print tags such as &lt;strong&gt;. 
-        - I became comfortable with both block and inline nesting by emphasizing certain words, using tables, structuring my site into a &lt;head&gt; and &lt;body&gt;, etc.
+        - I became comfortable with both block and inline nesting by emphasizing certain words, using tables, structuring my site using the &lt;head&gt; and &lt;body&gt; tags, etc.
     - **CSS:** 
     - **JavaScript:** 
+
+## TODO
+- Project for CSS: Website about Brian?
+
+## Change Log
+<table>
+    <tr>
+        <td> 9/6/21 </td>
+        <td> Added mugshot using html, played around with floating the image to the left of my introduction text with a margin to make it look nice. Began laying out portfolio; bulleted list for tech & concepts mastered. Created HTML Reference Guide in HTML. </td>
+    <tr>
+        <td> 9/13/21 </td>
+</table>
