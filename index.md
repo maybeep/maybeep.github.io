@@ -11,6 +11,8 @@ Email: <maybe@udel.edu>
 
 [Github repository](https://github.com/maybeep/maybeep.github.io.git) 
 
+<br>
+
 ## Technologies &amp; Concepts Mastered
 
 - Basics of the Web
@@ -32,7 +34,9 @@ Email: <maybe@udel.edu>
         <td> - Added mugshot using html; played around with floating the image to the left of my introduction text with a margin to make it look nice. 
         - Began laying out portfolio; bulleted list for tech & concepts mastered. 
         - Created HTML Reference Guide in HTML. </td>
+    </tr>
     <tr>
         <td> 9/13/21 </td>
         <td> </td>
+    </tr>
 </table>
