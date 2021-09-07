@@ -15,5 +15,8 @@ Email: <maybe@udel.edu>
 
 - Basics of the Web
     - **HTML:** I made an [HTML Reference Guide](html_site.html) in HTML. 
+        - I used tables to organize HTML tags with their explanations. 
+        - I learned about HTML escape characters so I could print tags such as &lt;strong&gt;. 
+        - I became comfortable with both block and inline nesting by emphasizing certain words, using tables, structuring my site into a &lt;head&gt; and &lt;body&gt;, etc.
     - **CSS:** 
     - **JavaScript:** 
