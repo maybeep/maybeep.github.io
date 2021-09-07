@@ -25,10 +25,11 @@ Email: <maybe@udel.edu>
 - Project for CSS: Website about Brian?
 
 ## Change Log
-<table>
-    <tr>
-        <td> 9/6/21 </td>
-        <td> Added mugshot using html, played around with floating the image to the left of my introduction text with a margin to make it look nice. Began laying out portfolio; bulleted list for tech & concepts mastered. Created HTML Reference Guide in HTML. </td>
-    <tr>
-        <td> 9/13/21 </td>
-</table>
+<tr>
+    <td> 9/6/21 </td>
+    <td> - Added mugshot using html; played around with floating the image to the left of my introduction text with a margin to make it look nice. 
+    - Began laying out portfolio; bulleted list for tech & concepts mastered. 
+    - Created HTML Reference Guide in HTML. </td>
+<tr>
+    <td> 9/13/21 </td>
+    <td> </td>
