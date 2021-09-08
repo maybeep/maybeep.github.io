@@ -20,7 +20,8 @@ Email: <maybe@udel.edu>
         - I used tables to organize HTML tags with their explanations. 
         - I learned about HTML escape characters so I could print tags such as &lt;strong&gt;. 
         - I became comfortable with both block and inline nesting by emphasizing certain words, using tables, structuring my site using the &lt;head&gt; and &lt;body&gt; tags, etc.
-    - **CSS:** 
+        - Learned about inline styles by making the tables have different background colors.
+    - **CSS:** I made a pretty [website](brian_css.html) bragging about my dog Brian.
     - **JavaScript:** 
 
 ## TODO
