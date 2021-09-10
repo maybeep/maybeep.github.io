@@ -41,10 +41,10 @@ Email: <maybe@udel.edu>
         <td> 9/9/21 </td>
         <td> 
             <ul>
-                <li> Added mugshot using html; played around with floating the image to the left of my introduction text with a margin to make it look nice. </li>
+                <li> Added headshot to portfolio using html; played around with floating the image to the left of my introduction text with a margin to make it look nice. </li>
                 <li> Began laying out portfolio; bulleted list for tech & concepts mastered. </li>
-                <li> Created HTML Reference Guide in HTML. </li>
-                <li> Created Braggin' About Brian site to practice CSS. </li>
+                <li> Created [HTML Reference Guide](html_site.html) in HTML. </li>
+                <li> Created site about my dog to practice CSS. The biggest challenge was centering the three images in a line. Couldn't figure out how to make the yellow header section reach all the way to the edge of the page </li>
             </ul>
         </td>
     </tr>
