@@ -50,9 +50,9 @@ Email: <maybe@udel.edu>
         <td> 9/16/21 </td>
         <td>
             <ul>
-                <li>  </li>
+                <li> TBD </li>
             </ul>
-        <td>
+        </td>
     </tr>
 </table>
 
