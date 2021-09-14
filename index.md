@@ -32,6 +32,7 @@ Email: <maybe@udel.edu>
     - Learned in class on 9/9 that there is a local way of viewing my site. Before, I kept making extremely small edits, submitting to Git, waiting for my site to refresh, then finally reloading my site to see my change. This is obviously extremely inefficient compared to opening html_site.html locally and seeing my changes immediately. Now I can make Git commits often rather than *constantly*.
 
 ## TODO
+<html>
 <table>
     <tr>
         <td> 9/9/21 </td>
@@ -59,8 +60,10 @@ Email: <maybe@udel.edu>
         </td>
     </tr>
 </table>
+</html>
 
 ## Change Log
+<html>
 <table>
     <tr>
         <td> 9/9/21 </td>
@@ -84,3 +87,4 @@ Email: <maybe@udel.edu>
         </td>
     </tr>
 </table>
+</html>
