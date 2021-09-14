@@ -32,7 +32,7 @@ Email: <maybe@udel.edu>
     - Learned in class on 9/9 that there is a local way of viewing my site. Before, I kept making extremely small edits, submitting to Git, waiting for my site to refresh, then finally reloading my site to see my change. This is obviously extremely inefficient compared to opening html_site.html locally and seeing my changes immediately. Now I can make Git commits often rather than *constantly*.
 
 ## TODO
-**9/9/21**
+- **9/9/21**
     - Add interactive "fan mail" section to brian_css.html site
     - JavaScript: Read HTML Dog tutorial
         - Project: Add image slider to Brian site
@@ -40,7 +40,7 @@ Email: <maybe@udel.edu>
         - Project: Whack-a-mole?
     - React: Make tabs for portfolio ([link](https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-tabs-for-a-portfolio-page))
 
-**9/16/21**
+- **9/16/21**
     - 
 
 ## Change Log
