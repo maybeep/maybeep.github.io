@@ -40,9 +40,9 @@ Email: <maybe@udel.edu>
                 <li> Add interactive "fan mail" section to brian_css.html site. </li>
                 <li> JavaScript: Read HTML Dog tutorial </li>
                     <li> Project: Add image slider to Brian site </li>
-                <li> Typescript: start [tutorial](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) </li>
+                <li> Typescript: start <a href=https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html>tutorial</a></li>
                     <li> Project: Whack-a-mole? </li>
-                <li> React: Make tabs for portfolio ([link](https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-tabs-for-a-portfolio-page)) </li>
+                <li> React: Make tabs for portfolio (<a href=https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-tabs-for-a-portfolio-page>link</a>)</li>
             </ul>
         </td>
     </tr>
