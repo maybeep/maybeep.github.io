@@ -40,9 +40,13 @@ Email: <maybe@udel.edu>
             <ul>
                 <li> Add interactive "fan mail" section to brian_css.html site. </li>
                 <li> JavaScript: Read HTML Dog tutorial </li>
+                <ul>
                     <li> Project: Add image slider to Brian site </li>
+                </ul>
                 <li> Typescript: start <a href=https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html>tutorial</a></li>
+                <ul>
                     <li> Project: Whack-a-mole? </li>
+                </ul>
                 <li> React: Make tabs for portfolio (<a href=https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-tabs-for-a-portfolio-page>link</a>)</li>
             </ul>
         </td>
@@ -65,7 +69,7 @@ Email: <maybe@udel.edu>
             <ul>
                 <li> Added headshot to portfolio using html; played around with floating the image to the left of my introduction text with a margin to make it look nice. </li>
                 <li> Began laying out portfolio; bulleted list for tech & concepts mastered. </li>
-                <li> Created [HTML Reference Guide](html_site.html) in HTML. </li>
+                <li> Created <a href=html_site.html>HTML Reference Guide</a> in HTML. </li>
                 <li> Created site about my dog to practice CSS. The biggest challenge was centering the three images in a line. Couldn't figure out how to make the yellow header section reach all the way to the edge of the page. </li>
             </ul>
         </td>
@@ -74,9 +78,9 @@ Email: <maybe@udel.edu>
         <td> 9/16/21 </td>
         <td>
             <ul>
-                <li> Started by looking at a [tutorial](https://www.w3schools.com/html/html_responsive.asp) on content folding and responsive web design. Updated my [Brian site](brian_css.html) to have images and text that move with the size of the window. </li>
-                <li> Added menu to my [Brian site](brian_css.html) and used CSS for styling. </li>
-                <li> Added a 'fan mail' section to my [Brian site](brian_css.html) using inputs and CSS styling </li>
+                <li> Started by looking at a <a href=https://www.w3schools.com/html/html_responsive.asp>tutorial</a> on content folding and responsive web design. Updated my <a href=brian_css.html>Brian site</a> to have images and text that move with the size of the window. </li>
+                <li> Added menu to my <a href=brian_css.html>Brian site</a> and used CSS for styling. </li>
+                <li> Added a 'fan mail' section to my <a href=brian_css.html>Brian site</a> using inputs and CSS styling </li>
             </ul>
         </td>
     </tr>
