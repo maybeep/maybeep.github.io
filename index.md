@@ -28,12 +28,16 @@ Email: <maybe@udel.edu>
     - Learned in class on 9/9 that there is a local way of viewing my site. Before, I kept making extremely small edits, submitting to Git, waiting for my site to refresh, then finally reloading my site to see my change. This is obviously extremely inefficient compared to opening html_site.html locally and seeing my changes immediately. Now I can make Git commits often rather than *constantly*.
 
 ## TODO
-- Add interactive "fan mail" section to brian_css.html site
-- JavaScript: Read HTML Dog tutorial
-    - Project: Add image slider to Brian site
-- Typescript: start [tutorial](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
-    - Project: Whack-a-mole?
-- React: Make tabs for portfolio ([link](https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-tabs-for-a-portfolio-page))
+**9/9/21**
+    - Add interactive "fan mail" section to brian_css.html site
+    - JavaScript: Read HTML Dog tutorial
+        - Project: Add image slider to Brian site
+    - Typescript: start [tutorial](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+        - Project: Whack-a-mole?
+    - React: Make tabs for portfolio ([link](https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-tabs-for-a-portfolio-page))
+
+**9/16/21**
+    - 
 
 ## Change Log
 <table>
@@ -44,7 +48,15 @@ Email: <maybe@udel.edu>
                 <li> Added headshot to portfolio using html; played around with floating the image to the left of my introduction text with a margin to make it look nice. </li>
                 <li> Began laying out portfolio; bulleted list for tech & concepts mastered. </li>
                 <li> Created [HTML Reference Guide](html_site.html) in HTML. </li>
-                <li> Created site about my dog to practice CSS. The biggest challenge was centering the three images in a line. Couldn't figure out how to make the yellow header section reach all the way to the edge of the page </li>
+                <li> Created site about my dog to practice CSS. The biggest challenge was centering the three images in a line. Couldn't figure out how to make the yellow header section reach all the way to the edge of the page. </li>
+            </ul>
+        </td>
+        <td> 9/16/21 </td>
+        <td>
+            <ul>
+                <li> Started by looking at a [tutorial](https://www.w3schools.com/html/html_responsive.asp) on content folding and responsive web design. Updated my [Brian site](brian_css.html) to have images and text that move with the size of the window. </li>
+                <li> Added menu to my [Brian site](brian_css.html) and used CSS for styling. </li>
+                <li> Added a 'fan mail' section to my [Brian site](brian_css.html) using inputs and CSS styling </li>
             </ul>
         </td>
     </tr>
