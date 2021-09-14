@@ -32,16 +32,29 @@ Email: <maybe@udel.edu>
     - Learned in class on 9/9 that there is a local way of viewing my site. Before, I kept making extremely small edits, submitting to Git, waiting for my site to refresh, then finally reloading my site to see my change. This is obviously extremely inefficient compared to opening html_site.html locally and seeing my changes immediately. Now I can make Git commits often rather than *constantly*.
 
 ## TODO
-- **9/9/21**
-    - Add interactive "fan mail" section to brian_css.html site
-    - JavaScript: Read HTML Dog tutorial
-        - Project: Add image slider to Brian site
-    - Typescript: start [tutorial](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
-        - Project: Whack-a-mole?
-    - React: Make tabs for portfolio ([link](https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-tabs-for-a-portfolio-page))
-
-- **9/16/21**
-    - 
+<table>
+    <tr>
+        <td> 9/9/21 </td>
+        <td>
+            <ul>
+                <li> Add interactive "fan mail" section to brian_css.html site. </li>
+                <li> JavaScript: Read HTML Dog tutorial </li>
+                    <li> Project: Add image slider to Brian site </li>
+                <li> Typescript: start [tutorial](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) </li>
+                    <li> Project: Whack-a-mole? </li>
+                <li> React: Make tabs for portfolio ([link](https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-tabs-for-a-portfolio-page)) </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td> 9/16/21 </td>
+        <td>
+            <ul>
+                <li>  </li>
+            </ul>
+        <td>
+    </tr>
+</table>
 
 ## Change Log
 <table>
