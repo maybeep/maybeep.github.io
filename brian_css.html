@@ -61,7 +61,7 @@
         margin-right: auto;
     }
     .white_section{
-        width: 100%;
+        width: 100%; 
         padding: 30px;
     }
     .yellow_section{
@@ -71,8 +71,17 @@
         justify-content: center;
         background-color: #FFE896;
     }
+    /* text in yellow section, did it like this so the image didn't have any padding */
     .text{
         padding: 30px;
+    }
+    input[type=text] textarea {
+        width: 100%;
+        align-content: left;
+        box-sizing: border-box;
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
     }
 </style>
 <head>
@@ -131,8 +140,30 @@
         </div>
     </div>
     <div class="white_section">
-        <h2 id="contact">Fan Mail</h2>
+        <img src="brian_seal.png"
+        alt="Brian's seal of approval"
+        style="float:right; margin-right:80px; margin-bottom: 30px; max-width:250px; width: 33%;"/>
+        <h2 id="contact">Contact</h2>
         <p>Send Brian some fan mail!</p>
+        <div class="contact">
+            <br>
+            <label>Name</label>
+            <br>
+            <input type="text" name="name" style = "width: 50%">
+            <br>
+            <br>
+            <label>Subject</label>
+            <br>
+            <input type="text" name="subject" style = "width: 50%">
+            <br>
+            <br>
+            <label for="message">Message</label>
+            <br>
+            <textarea id="message" name="message" placeholder="Send Brian some love..." style = "height: 100px; width: 80%"></textarea>
+            <br>
+            <br>
+            <input type="submit" value="Send">
+        </div>
     </div>
 </body>
 </html>
