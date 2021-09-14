@@ -1,4 +1,5 @@
 
+<html>
 <img src="mugshot.jpeg"
      alt="Macy Beach mugshot"
      style="float: left; margin-right: 20px; width:200px;" />
@@ -80,3 +81,4 @@ Email: <maybe@udel.edu>
         </td>
     </tr>
 </table>
+</html>
