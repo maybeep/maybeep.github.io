@@ -1,4 +1,5 @@
 
+
 <img src="mugshot.jpeg"
      alt="Macy Beach mugshot"
      style="float: left; margin-right: 20px; width:200px;" />
@@ -26,8 +27,10 @@ Email: <maybe@udel.edu>
         - Eventually learned the difference between padding and margins.
         - Used percentages for image dimensions to make my site more responsive.
     - **JavaScript:** 
+        - Went through Beginner and Intermediate tutorials from [HTML Dog](https://htmldog.com/guides/javascript/)
+        - Followed this [tutorial](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=28874s) to make an image slider on my [site](brian_css.html) about Brian. Learned how to link a separate JavaScript file to my site. Combined CSS and JavaScript to make it look nice.
 - **React:**
-    -
+    - 
 - **Git**
     - Learned in class on 9/9 that there is a local way of viewing my site. Before, I kept making extremely small edits, submitting to Git, waiting for my site to refresh, then finally reloading my site to see my change. This is obviously extremely inefficient compared to opening html_site.html locally and seeing my changes immediately. Now I can make Git commits often rather than *constantly*.
 
