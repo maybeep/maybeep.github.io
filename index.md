@@ -87,7 +87,7 @@ Email: <maybe@udel.edu>
                 <li> Finish TypeScript <a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html">tutorial</a></li>
                 <li> Complete React <a href="https://reactjs.org/tutorial/tutorial.html">tutorial</a> building tic-tac-toe</li>
                 <li> Go through Hooks <a href="https://reactjs.org/docs/hooks-intro.html">tutorial</a></li>
-                <li> Start a React project; to-do list <a href="https://youtu.be/nUl5QLkVdvU">(tutorial)</a>, quiz app <a href="<a href="https://youtu.be/aq-fCtg_gG4">(tutorial)</a></li>
+                <li> Start a React project; to-do list <a href="https://youtu.be/nUl5QLkVdvU">(tutorial)</a>, quiz app <a href="https://youtu.be/aq-fCtg_gG4">(tutorial)</a></li>
             </ul>
         </td>
     </tr>
@@ -98,7 +98,7 @@ Email: <maybe@udel.edu>
 <html>
 <table>
     <tr>
-        <td> 9/2 - 9/9/21 </td>
+        <td> 9/2/21 - 9/9/21 </td>
         <td> 
             <ul>
                 <li> Added headshot to portfolio using html; played around with floating the image to the left of my introduction text with a margin to make it look nice. </li>
@@ -109,7 +109,7 @@ Email: <maybe@udel.edu>
         </td>
     </tr>
     <tr>
-        <td> 9/9 - 9/16/21 </td>
+        <td> 9/9/21 - 9/16/21 </td>
         <td>
             <ul>
                 <li> Started by looking at a <a href="https://www.w3schools.com/html/html_responsive.asp">tutorial</a> on content folding and responsive web design. Updated my <a href="https://maybeep.github.io/brian-site/brian_css.html">Brian site</a> to have images and text that move with the size of the window. </li>
