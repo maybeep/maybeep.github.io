@@ -31,6 +31,7 @@ Email: <maybe@udel.edu>
     - Used percentages for image dimensions to make my site more responsive.
     - Practiced responsive web design by making the images adjust with the size of the window.
     - Added a menu that links to the different sections of the site.
+    - Made Brian's seal of approval spin in the [contact](https://maybeep.github.io/brian-site/brian_css.html#contact) section using CSS.
 
 - **JavaScript** 
     - Followed a tutorial to make a basic whack-a-mole [game](https://maybeep.github.io/whack-a-mole/index.html).
@@ -109,7 +110,8 @@ Email: <maybe@udel.edu>
                 <li> Added menu to my <a href="https://maybeep.github.io/brian-site/brian_css.html">Brian site</a> and used CSS for styling. </li>
                 <li> Added a 'fan mail' section to my <a href="https://maybeep.github.io/brian-site/brian_css.html">Brian site</a> using inputs and CSS styling </li>
                 <li> Put an image slider in my <a href="https://maybeep.github.io/brian-site/brian_css.html">Brian site</a> using Javascript. </li>
-                <li> Followed this (<a href="https://www.youtube.com/watch?v=lhNdUVh3qCc&t=699s">tutorial</a>) and built a whack-a-mole game. </li>
+                <li> Followed this (<a href="https://www.youtube.com/watch?v=lhNdUVh3qCc&t=699s">tutorial</a>) and built a whack-a-mole game in JavaScript. </li>
+                <li> Separated my style tags into a separate style.css file. Made Brian's seal of approval spin in the <a href="https://maybeep.github.io/brian-site/brian_css.html#contact">contact</a> section of my Brian site using CSS. 
             </ul>
         </td>
     </tr>

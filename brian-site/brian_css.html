@@ -12,16 +12,16 @@
         style="float: left; width:120px"
         />
         <h2>Braggin' About Brian</h2>
+        <div class="menu">
+            <ul>
+                <li><a href="#default">Home</a></li><p> | </p>
+                <li><a href="#about">About</a></li><p> | </p>
+                <li><a href="#hobbies">Hobbies</a></li><p> | </p>
+                <li><a href="#slideshow">Slideshow</a></li><p> | </p>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
     </header>
-    <div class="menu">
-        <ul>
-            <li><a href="#default">Home</a></li><p> | </p>
-            <li><a href="#about">About</a></li><p> | </p>
-            <li><a href="#hobbies">Hobbies</a></li><p> | </p>
-            <li><a href="#slideshow">Slideshow</a></li><p> | </p>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
-    </div>
     <div class="images_container">
         <img src="brian.jpeg"
         alt="Brian on the beach"
@@ -35,7 +35,7 @@
         alt="Brian eating icecream"
         style="max-width:375px; width: 33%;" />
     </div>
-    <div class="white_section">
+    <div class="text">
         <h2 id="about">About Brian</h2>
         <ul>
             <li><strong>Age:</strong> 7</li>
@@ -45,7 +45,7 @@
     </div>
     <div class="yellow_section">
         <img src="brian_nap.jpeg"
-        style="float: right; height: 275px" />
+        style="float: right; max-width: 370px; width: auto;" />
         <div class="text">
             <h2 id="hobbies">Hobbies</h2>
             <ul>
@@ -54,6 +54,8 @@
                 <li>Eating garbage</li>
                 <li>Shedding</li>
                 <li>Hiking</li>
+                <li>Receiving attention</li>
+                <li>Swimming</li>
             </ul>
         </div>
     </div>
@@ -85,28 +87,24 @@
             next
         </button>
     </div>
-    <div class="white_section">
+    <div class="yellow_section">
         <img src="brian_seal.png"
+        class="spin"
         alt="Brian's seal of approval"
-        style="float:right; margin-right:80px; margin-bottom: 30px; max-width:250px; width: 33%;"/>
+        style="float:right; margin-right:auto; max-width:280px; width: 33%;"/>
         <h2 id="contact">Contact</h2>
-        <p>Send Brian some fan mail!</p>
         <div class="contact">
-            <br>
             <label>Name</label>
             <br>
-            <input type="text" name="name" style = "width: 50%">
-            <br>
+            <input type="text" name="name" style = "width: 60%">
             <br>
             <label>Subject</label>
             <br>
-            <input type="text" name="subject" style = "width: 50%">
-            <br>
+            <input type="text" name="subject" style = "width: 60%">
             <br>
             <label for="message">Message</label>
             <br>
-            <textarea id="message" name="message" placeholder="Send Brian some love..." style = "height: 100px; width: 80%"></textarea>
-            <br>
+            <textarea id="message" name="message" placeholder="Send Brian some love..." style = "height: 100px; width: 60%"></textarea>
             <br>
             <input type="submit" value="Send">
         </div>

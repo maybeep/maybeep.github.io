@@ -1,16 +1,18 @@
-body{
+body {
     font-family:'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     font-size: 17px;
 }
-header{
+.text {
+    margin: 30px;
+}
+header {
     position: relative;
-    vertical-align: center;
     background-color: #FFE896;
-    width: 100%;
+    width: auto;
     height: 140px;
     margin-bottom: 30px;
 }
-header h2{
+header h2 {
 /* clever way I found to center the title in the header (https://www.w3.org/Style/Examples/007/center.en.html) */
     margin: 0px;
     margin-left: 160px;
@@ -18,7 +20,7 @@ header h2{
     top: 50%;                         
     transform: translate(0, -50%)
 }
-header img{
+header img {
 /* same as title, different margin; may be a better way of doing this */
     margin: 0px;
     margin-left: 15px;
@@ -26,52 +28,50 @@ header img{
     top: 50%;                         
     transform: translate(0, -50%)
 }
-.menu{
-    margin-bottom: 30px;
-    text-align: center;
+.menu { 
+    text-align: right;
+    margin-right: 15px;
 }
-.menu a{
+.menu a {
     color: black;
+    text-decoration: none;
+    font-size: 20px;
 }
 .menu a:hover{
-    color: rgb(65, 65, 65);
+    color: rgb(172, 172, 172);
 }
-.menu ul{
+.menu ul {
 /* remove bullets from menu */
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
-.menu li{
+.menu li {
 /* make menu horizontal */
     display: inline;
 }
-.menu p{
+.menu p {
     display: inline;
 }
-.images_container{
+.images_container {
+/* for three centered images */
     width: 100%;
     display: flex;
     justify-content: center;
 }
-.images_container img{
+.images_container img {
+/* adjust margin with page width */
     margin-left: auto;
     margin-right: auto;
 }
-.white_section{
-    width: 100%; 
-    padding: 30px;
-}
-.yellow_section{
-    height: 275px;
-    width: 100%;
-    align-content: center;
+.yellow_section {
+    height: 290px;
+    width: auto;
     justify-content: center;
     background-color: #FFE896;
-}
-.text{
-/* text in yellow section, did it like this so the image didn't have any padding */
     padding: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 .slider-container {
 /* container for image slider */
@@ -97,10 +97,8 @@ header img{
     height: 40vw;
     object-fit: cover;
 }
-.slide h1 {
-    font-size: 5rem;
-}
 .btn-container {
+/* next and prev buttons */
     display: flex;
     justify-content: center;
     margin-top: 0.75rem;
@@ -112,4 +110,18 @@ input[type=text] textarea {
     margin-top: 6px;
     margin-bottom: 16px;
     resize: vertical;
+}
+@keyframes spinning {
+    from { 
+        transform: rotate(0deg) 
+    }
+    to { 
+        transform: rotate(360deg) 
+    }
+}
+.spin {
+    animation-name: spinning;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
 }
