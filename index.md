@@ -16,33 +16,43 @@ Email: <maybe@udel.edu>
 
 ## Technologies &amp; Concepts Mastered
 
-- **HTML:** I made an [HTML Reference Guide](html_site.html) in HTML. 
+- **HTML** 
+    - I made an [HTML Reference Guide](html_site.html) in HTML. 
     - I used tables to organize HTML tags with their explanations. 
     - I learned about HTML escape characters so I could print tags such as &lt;strong&gt;. 
     - I became comfortable with both block and inline nesting by emphasizing certain words, using tables, structuring my site using the &lt;head&gt; and &lt;body&gt; tags, etc.
     - Learned about inline styles by making the tables have different background colors.
+<br />
 
-- **CSS:** I made a pretty [website](https://maybeep.github.io/brian-site/brian_css.html) bragging about my dog Brian.
+- **CSS** 
+    - I made a pretty [website](https://maybeep.github.io/brian-site/brian_css.html) bragging about my dog Brian.
     - I used &lt;style&gt; tags to add background color to the header and different sections of the body. Changed font and font size of the body text.
     - Spent way too long figuring out how to horizontally align three images in the center of the page.
     - Eventually learned the difference between padding and margins.
     - Used percentages for image dimensions to make my site more responsive.
     - Practiced responsive web design by making the images adjust with the size of the window.
     - Added a menu that links to the different sections of the site.
+<br />
 
-- **JavaScript:** Followed a tutorial to make a basic whack-a-mole [game](https://maybeep.github.io/whack-a-mole/index.html).
+- **JavaScript** 
+    - Followed a tutorial to make a basic whack-a-mole [game](https://maybeep.github.io/whack-a-mole/index.html).
     - Went through Beginner and Intermediate tutorials from [HTML Dog](https://htmldog.com/guides/javascript/). Got inspired by callbacks and attempted to make the logo on my Brian site spin when hovered over... did not succeed.
     - Followed this [tutorial](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=28874s) to make an image slider on my [site](https://maybeep.github.io/brian-site/brian_css.html) about Brian. Learned how to link a separate JavaScript file to my site. Combined CSS and JavaScript to make it look nice.
+<br />
 
 - **Git**
     - Learned in class on 9/9 that there is a local way of viewing my site. Before, I kept making extremely small edits, submitting to Git, waiting for my site to refresh, then finally reloading my site to see my change. This is obviously extremely inefficient compared to opening html_site.html locally and seeing my changes immediately. Now I can make Git commits often rather than *constantly*.
+<br />
 
-- **TypeScript:** 
+- **TypeScript** 
     - Thought it was interesting that Visual Studio Code uses TypeScript under the hood to make writing JavaScript easier.
+<br />
 
-- **React:** 
+- **React** 
+<br />
 
-- **Etc.:**
+- **Etc.**
+<br />
 
 ## TODO
 <html>
