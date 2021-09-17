@@ -22,7 +22,6 @@ Email: <maybe@udel.edu>
     - I learned about HTML escape characters so I could print tags such as &lt;strong&gt;. 
     - I became comfortable with both block and inline nesting by emphasizing certain words, using tables, structuring my site using the &lt;head&gt; and &lt;body&gt; tags, etc.
     - Learned about inline styles by making the tables have different background colors.
-<br />
 
 - **CSS** 
     - I made a pretty [website](https://maybeep.github.io/brian-site/brian_css.html) bragging about my dog Brian.
@@ -32,27 +31,21 @@ Email: <maybe@udel.edu>
     - Used percentages for image dimensions to make my site more responsive.
     - Practiced responsive web design by making the images adjust with the size of the window.
     - Added a menu that links to the different sections of the site.
-<br />
 
 - **JavaScript** 
     - Followed a tutorial to make a basic whack-a-mole [game](https://maybeep.github.io/whack-a-mole/index.html).
     - Went through Beginner and Intermediate tutorials from [HTML Dog](https://htmldog.com/guides/javascript/). Got inspired by callbacks and attempted to make the logo on my Brian site spin when hovered over... did not succeed.
     - Followed this [tutorial](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=28874s) to make an image slider on my [site](https://maybeep.github.io/brian-site/brian_css.html) about Brian. Learned how to link a separate JavaScript file to my site. Combined CSS and JavaScript to make it look nice.
-<br />
 
 - **Git**
     - Learned in class on 9/9 that there is a local way of viewing my site. Before, I kept making extremely small edits, submitting to Git, waiting for my site to refresh, then finally reloading my site to see my change. This is obviously extremely inefficient compared to opening html_site.html locally and seeing my changes immediately. Now I can make Git commits often rather than *constantly*.
-<br />
 
 - **TypeScript** 
     - Thought it was interesting that Visual Studio Code uses TypeScript under the hood to make writing JavaScript easier.
-<br />
 
 - **React** 
-<br />
 
 - **Etc.**
-<br />
 
 ## TODO
 <html>
