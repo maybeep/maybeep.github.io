@@ -48,11 +48,12 @@ Email: <maybe@udel.edu>
         - *"TypeScript is JavaScript's runtime with a compile-time type checker."* 
         - Use `interface` declaration for objects and classes to set types as well as for annotating parameters and returning values to functions.
         - TypeScript extends JavaScript's primitive types with `any`, `unknown`, `never`, and `undefined`.
-        - Unions declare that a type could be one of many. e.g. type door_states = "open" &#124; "closed";
+        - Unions declare that a type could be one of many. e.g. `type door_states = "open" &#124; "closed";`
         - `typeof` returns the type of a variable; useful in functions that return different values depending on what is passed into it.
-        - Generics provide variables to types
+        - Generics provide variables to types. For example, an array with generics explains what values it contains.
 
 - **React** 
+    - 
 
 - **Etc.**
 
