@@ -35,7 +35,6 @@ Email: <maybe@udel.edu>
 
 - **JavaScript** 
     - Followed a tutorial to make a basic whack-a-mole [game](https://maybeep.github.io/whack-a-mole/index.html).
-    - Went through Beginner and Intermediate tutorials from [HTML Dog](https://htmldog.com/guides/javascript/). Got inspired by callbacks and attempted to make the logo on my Brian site spin when hovered over... did not succeed.
     - Followed this [tutorial](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=28874s) to make an image slider on my [site](https://maybeep.github.io/brian-site/brian_css.html) about Brian. Learned how to link a separate JavaScript file to my site. Combined CSS and JavaScript to make it look nice.
 
 - **Git**
@@ -85,6 +84,14 @@ Email: <maybe@udel.edu>
             </ul>
         </td>
     </tr>
+    <tr>
+        <td> By 9/30 (FINAL) </td>
+        <td>
+            <ul>
+                <li>  </li>
+            </ul>
+        </td>
+    </tr>
 </table>
 </html>
 
@@ -103,7 +110,7 @@ Email: <maybe@udel.edu>
         </td>
     </tr>
     <tr>
-        <td> 9/9/21 - 9/16/21 </td>
+        <td> 9/10/21 - 9/16/21 </td>
         <td>
             <ul>
                 <li> Started by looking at a <a href="https://www.w3schools.com/html/html_responsive.asp">tutorial</a> on content folding and responsive web design. Updated my <a href="https://maybeep.github.io/brian-site/brian_css.html">Brian site</a> to have images and text that move with the size of the window. </li>
@@ -112,6 +119,14 @@ Email: <maybe@udel.edu>
                 <li> Put an image slider in my <a href="https://maybeep.github.io/brian-site/brian_css.html">Brian site</a> using Javascript. </li>
                 <li> Followed this (<a href="https://www.youtube.com/watch?v=lhNdUVh3qCc&t=699s">tutorial</a>) and built a whack-a-mole game in JavaScript. </li>
                 <li> Separated my style tags into a separate style.css file. Made Brian's seal of approval spin in the <a href="https://maybeep.github.io/brian-site/brian_css.html#contact">contact</a> section of my Brian site using CSS. </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td> 9/17/21 - 9/23/21 </td>
+        <td>
+            <ul>
+                <li> </li>
             </ul>
         </td>
     </tr>
