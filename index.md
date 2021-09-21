@@ -41,7 +41,16 @@ Email: <maybe@udel.edu>
     - Learned in class on 9/9 that there is a local way of viewing my site. Before, I kept making extremely small edits, submitting to Git, waiting for my site to refresh, then finally reloading my site to see my change. This is obviously extremely inefficient compared to opening html_site.html locally and seeing my changes immediately. Now I can make Git commits often rather than *constantly*.
 
 - **TypeScript** 
-    - Thought it was interesting that Visual Studio Code uses TypeScript under the hood to make writing JavaScript easier.
+    - Key takeaways from TS [tutorial](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html):
+        - Thought it was interesting that Visual Studio Code uses TypeScript under the hood to make writing JavaScript easier.
+        - TypeScript is a superset of JavaScript meaning I can take working JS code and put it in a TS file. Then just follow the TS rules regarding types.
+        - TypseScript never changes the runtime behavior of JavaScript code which also allows for easy transition between the two.
+        - *"TypeScript is JavaScript's runtime with a compile-time type checker."* 
+        - Use `interface` declaration for objects and classes to set types as well as for annotating parameters and returning values to functions.
+        - TypeScript extends JavaScript's primitive types with `any`, `unknown`, `never`, and `undefined`.
+        - Unions declare that a type could be one of many. e.g. type door_states = "open" | "closed";
+        - `typeof` returns the type of a variable; useful in functions that return different values depending on what is passed into it.
+        - Generics provide variables to types
 
 - **React** 
 
@@ -66,7 +75,7 @@ Email: <maybe@udel.edu>
                 <li> React: Make tabs for portfolio (<a href="https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-tabs-for-a-portfolio-page">link</a>)</li>
             </ul>
         </td>
-    </tr>
+    </tr> 
     <tr>
         <td> By 9/23 </td>
         <td>
@@ -79,7 +88,7 @@ Email: <maybe@udel.edu>
                 </ul>
                 <li> Finish TypeScript <a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html">tutorial</a></li>
                 <li> Complete React <a href="https://reactjs.org/tutorial/tutorial.html">tutorial</a> building tic-tac-toe</li>
-                <li> Go through Hooks <a href="https://reactjs.org/docs/hooks-intro.html">tutorial</a></li>
+                <li> Go through Hooks <a href="https://reactjs.org/docs/hooks-intro.html">tutorial</a></li>t
                 <li> Start a React project; to-do list <a href="https://youtu.be/nUl5QLkVdvU">(tutorial)</a>, quiz app <a href="https://youtu.be/aq-fCtg_gG4">(tutorial)</a></li>
             </ul>
         </td>
