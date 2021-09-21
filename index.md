@@ -111,7 +111,7 @@ Email: <maybe@udel.edu>
                 <li> Added a 'fan mail' section to my <a href="https://maybeep.github.io/brian-site/brian_css.html">Brian site</a> using inputs and CSS styling </li>
                 <li> Put an image slider in my <a href="https://maybeep.github.io/brian-site/brian_css.html">Brian site</a> using Javascript. </li>
                 <li> Followed this (<a href="https://www.youtube.com/watch?v=lhNdUVh3qCc&t=699s">tutorial</a>) and built a whack-a-mole game in JavaScript. </li>
-                <li> Separated my style tags into a separate style.css file. Made Brian's seal of approval spin in the <a href="https://maybeep.github.io/brian-site/brian_css.html#contact">contact</a> section of my Brian site using CSS. 
+                <li> Separated my style tags into a separate style.css file. Made Brian's seal of approval spin in the <a href="https://maybeep.github.io/brian-site/brian_css.html#contact">contact</a> section of my Brian site using CSS. </li>
             </ul>
         </td>
     </tr>
