@@ -47,13 +47,19 @@ Email: <maybe@udel.edu>
         - TypseScript never changes the runtime behavior of JavaScript code which also allows for easy transition between the two.
         - *"TypeScript is JavaScript's runtime with a compile-time type checker."* 
         - Use `interface` declaration for objects and classes to set types as well as for annotating parameters and returning values to functions.
-        - TypeScript extends JavaScript's primitive types with `any`, `unknown`, `never`, and `undefined`.
+        - TypeScript extends JavaScript's primitive types with `any`(bad!), `unknown`, `never`, and `undefined`.
         - Unions declare that a type could be one of many. e.g. `type door_states = "open" &#124; "closed";`
         - `typeof` returns the type of a variable; useful in functions that return different values depending on what is passed into it.
         - Generics provide variables to types. For example, an array with generics explains what values it contains.
 
 - **React** 
-    - 
+    - Followed React [tutorial](https://reactjs.org/tutorial/tutorial.html) to make a [tic-tac-toe game](https://maybeep.github.io/my-app/public/index.html).
+    - Key takeaways from React [tutorial](https://reactjs.org/tutorial/tutorial.html)
+        - React is a JavaScript library for building user interfaces.
+        - Components tell React what to display on the screen. They take in parameters called **props** and return a hierarchy of views to display via **render**.
+        - Each React element is a JavaScript object that you can store in a variable or pass around.
+        - Information flows from parents to children.
+        - Components use state to remember things
 
 - **Etc.**
 
