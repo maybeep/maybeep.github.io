@@ -95,7 +95,7 @@ Email: <maybe@udel.edu>
                 </ul>
                 <li> Finish TypeScript <a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html">tutorial</a></li>
                 <li> Complete React <a href="https://reactjs.org/tutorial/tutorial.html">tutorial</a> building tic-tac-toe</li>
-                <li> Go through Hooks <a href="https://reactjs.org/docs/hooks-intro.html">tutorial</a></li>t
+                <li> Go through Hooks <a href="https://reactjs.org/docs/hooks-intro.html">tutorial</a></li>
                 <li> Start a React project; to-do list <a href="https://youtu.be/nUl5QLkVdvU">(tutorial)</a>, quiz app <a href="https://youtu.be/aq-fCtg_gG4">(tutorial)</a></li>
             </ul>
         </td>
