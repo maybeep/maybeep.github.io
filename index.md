@@ -53,7 +53,7 @@ Email: <maybe@udel.edu>
         - Generics provide variables to types. For example, an array with generics explains what values it contains.
 
 - **React** 
-    - Followed React [tutorial](https://reactjs.org/tutorial/tutorial.html) to make a [tic-tac-toe game](https://maybeep.github.io/tic-tac-toe).
+    - Followed React [tutorial](https://reactjs.org/tutorial/tutorial.html) to make a [tic-tac-toe game](https://maybeep.github.io/tic-tac-toe/).
     - Key takeaways from React [tutorial](https://reactjs.org/tutorial/tutorial.html):
         - React is a JavaScript library for building user interfaces.
         - Components tell React what to display on the screen. They take in parameters called **props** and return a hierarchy of views to display via **render**.
