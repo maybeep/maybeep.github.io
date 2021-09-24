@@ -54,6 +54,11 @@ Email: <maybe@udel.edu>
 
 - **React** 
     - Followed React [tutorial](https://reactjs.org/tutorial/tutorial.html) to make a [tic-tac-toe game](https://maybeep.github.io/tic-tac-toe/).
+    - Learned how to deploy a React app.
+    - Added some feautures:
+        - Functionality to display the location for each move in the format (col, row) in the move history list.
+        - Made currently selected item in the move list bold.
+        - When no one wins, my program displays draw.
     - Key takeaways from React [tutorial](https://reactjs.org/tutorial/tutorial.html):
         - React is a JavaScript library for building user interfaces.
         - Components tell React what to display on the screen. They take in parameters called **props** and return a hierarchy of views to display via **render**.
@@ -104,7 +109,10 @@ Email: <maybe@udel.edu>
         <td> By 9/30 (FINAL) </td>
         <td>
             <ul>
-                <li>  </li>
+                <li> New React project from scratch: mineral quiz app </li>
+                <li> Add bootstrap to React project </li>
+                <li> Add tests to tic-tac-toe project </li>
+                <li> Read about <a href="https://sun.iwu.edu/~mliffito/cs_codex/posts/requirements-gathering/">(requirements gathering)</a></li>
             </ul>
         </td>
     </tr>
@@ -142,7 +150,11 @@ Email: <maybe@udel.edu>
         <td> 9/17/21 - 9/23/21 </td>
         <td>
             <ul>
-                <li> </li>
+                <li> Finished building tic-tac-toe following the <a href="https://reactjs.org/tutorial/tutorial.html">tutorial</a>. </li>
+                <li> Added some suggested features to tic-tac-toe such as showing locations of moves, bolding the current move, declaring a draw, etc. </li>
+                <li> Miscellaneous updates changes to tic-tac-toe </li>
+                <li> Learned how to deploy a React app </li>
+                <li> Added tests to ta-trainer (<a href="https://github.com/maybeep/ta-trainer-main">repository</a>) </li>
             </ul>
         </td>
     </tr>
