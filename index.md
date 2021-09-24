@@ -55,7 +55,7 @@ Email: <maybe@udel.edu>
 - **React** 
     - Followed React [tutorial](https://reactjs.org/tutorial/tutorial.html) to make a [tic-tac-toe game](https://maybeep.github.io/tic-tac-toe/).
     - Learned how to deploy a React app.
-    - Added some feautures:
+    - Added some features:
         - Functionality to display the location for each move in the format (col, row) in the move history list.
         - Made currently selected item in the move list bold.
         - When no one wins, my program displays draw.
