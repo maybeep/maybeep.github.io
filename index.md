@@ -112,6 +112,7 @@ Email: <maybe@udel.edu>
                 <li> New React project from scratch: mineral quiz app </li>
                 <li> Add bootstrap to React project </li>
                 <li> Add tests to tic-tac-toe project </li>
+                <li> (opt.) Add more features to tic-tac-toe project </li>
                 <li> Read about <a href="https://sun.iwu.edu/~mliffito/cs_codex/posts/requirements-gathering/">(requirements gathering)</a></li>
             </ul>
         </td>
