@@ -41,6 +41,7 @@ Email: <maybe@udel.edu>
     - Learned in class on 9/9 that there is a local way of viewing my site. Before, I kept making extremely small edits, submitting to Git, waiting for my site to refresh, then finally reloading my site to see my change. This is obviously extremely inefficient compared to opening html_site.html locally and seeing my changes immediately. Now I can make Git commits often rather than *constantly*.
 
 - **TypeScript** 
+    - Wrote [mineral quiz app](https://maybeep.github.io/mineral-quiz/) in TypeScript rather than JavaScript.
     - Key takeaways from TS [tutorial](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html):
         - Thought it was interesting that Visual Studio Code uses TypeScript under the hood to make writing JavaScript easier.
         - TypeScript is a superset of JavaScript meaning I can take working JS code and put it in a TS file. Then just follow the TS rules regarding types.
@@ -53,6 +54,8 @@ Email: <maybe@udel.edu>
         - Generics provide variables to types. For example, an array with generics explains what values it contains.
 
 - **React** 
+    - Made a [mineral quiz app](https://maybeep.github.io/mineral-quiz/) with the help of several different websites but the general design is fully original (albeit not that creative).
+        - more info
     - Followed React [tutorial](https://reactjs.org/tutorial/tutorial.html) to make a [tic-tac-toe game](https://maybeep.github.io/tic-tac-toe/).
     - Learned how to deploy a React app.
     - Added some features:
@@ -67,7 +70,7 @@ Email: <maybe@udel.edu>
         - Components use state to remember things
 
 - **Etc.**
-
+    - Used Bootstrap in [mineral quiz app](https://maybeep.github.io/mineral-quiz/).
 ## TODO
 <html>
 <table>
@@ -156,6 +159,14 @@ Email: <maybe@udel.edu>
                 <li> Miscellaneous updates changes to tic-tac-toe </li>
                 <li> Learned how to deploy a React app </li>
                 <li> Added tests to ta-trainer (<a href="https://github.com/maybeep/ta-trainer-main">repository</a>) </li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td> 9/24/21 - 9/30/21 </td>
+        <td>
+            <ul>
+                <li>  </li>
             </ul>
         </td>
     </tr>
