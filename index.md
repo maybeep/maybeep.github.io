@@ -180,6 +180,7 @@ Email: <maybe@udel.edu>
                 <li> Made <a href="https://maybeep.github.io/mineral-quiz/">mineral quiz app</a> basically from scratch with the help of this <a href= "https://www.freecodecamp.org/news/how-to-build-a-quiz-app-using-react/">tutorial</a> </li>
                 <li> Learned how to use hooks, functions, TypeScript, Bootstrap </li>
                 <li> Played around with user interface design by mapping out my design for the quiz app on my iPad (click image to expand) </li>
+                <li> Miscellaneous CSS updates to tic-tac-toe <a href="https://maybeep.github.io/tic-tac-toe/">game</a> and whack-a-mole <a href="https://maybeep.github.io/whack-a-mole/index.html">game</a> </li>
             </ul>
         </td>
     </tr>
