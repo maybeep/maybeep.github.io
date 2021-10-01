@@ -171,7 +171,7 @@ Email: <maybe@udel.edu>
         <td> 9/24/21 - 9/30/21 </td>
         <td>
             <ul>
-                <img src="react-quiz.jpg" width="250px" float="right"/>
+                <img src="react-quiz.jpg" style="float: right; width:200px;"/>
                 <li> Made <a href="https://maybeep.github.io/mineral-quiz/">mineral quiz app</a> basically from scratch with the help of this <a href= "https://www.freecodecamp.org/news/how-to-build-a-quiz-app-using-react/">tutorial</a> </li>
                 <li> Learned how to use hooks, functions, TypeScript, Bootstrap </li>
                 <li> Played around with user interface design by mapping out my design for the quiz app on my iPad </li>
