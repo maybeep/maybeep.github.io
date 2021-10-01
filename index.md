@@ -76,7 +76,9 @@ Email: <maybe@udel.edu>
     - Used Bootstrap in [mineral quiz app](https://maybeep.github.io/mineral-quiz/).
         - Learned how to format page using containers, rows, and columns.
         - Used buttons.
-## TODO
+
+<details>
+    <summary>TODO</summary>
 <html>
 <table>
     <tr>
@@ -127,8 +129,10 @@ Email: <maybe@udel.edu>
     </tr>
 </table>
 </html>
-
-## Change Log
+</details>
+<br>
+<details>
+    <summary>Change Log</summary>
 <html>
 <table>
     <tr>
@@ -179,4 +183,5 @@ Email: <maybe@udel.edu>
         </td>
     </tr>
 </table>
+</details>
 </html>
