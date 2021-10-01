@@ -42,6 +42,7 @@ Email: <maybe@udel.edu>
 
 - **TypeScript** 
     - Wrote [mineral quiz app](https://maybeep.github.io/mineral-quiz/) in TypeScript rather than JavaScript.
+        - [Link to GitHub repository](https://github.com/maybeep/mineral-quiz).
     - Key takeaways from TS [tutorial](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html):
         - Thought it was interesting that Visual Studio Code uses TypeScript under the hood to make writing JavaScript easier.
         - TypeScript is a superset of JavaScript meaning I can take working JS code and put it in a TS file. Then just follow the TS rules regarding types.
@@ -55,7 +56,9 @@ Email: <maybe@udel.edu>
 
 - **React** 
     - Made a [mineral quiz app](https://maybeep.github.io/mineral-quiz/) with the help of several different websites but the general design is fully original (albeit not that creative).
-        - more info
+        - Got comfortable with states; using them for the score, changing images, and questions.
+        - More familiar with components. Definitely think my code could be a lot cleaner (via more components).
+        - Got practice with *Hooks* using `useState`.
     - Followed React [tutorial](https://reactjs.org/tutorial/tutorial.html) to make a [tic-tac-toe game](https://maybeep.github.io/tic-tac-toe/).
     - Learned how to deploy a React app.
     - Added some features:
@@ -71,6 +74,8 @@ Email: <maybe@udel.edu>
 
 - **Etc.**
     - Used Bootstrap in [mineral quiz app](https://maybeep.github.io/mineral-quiz/).
+        - Learned how to format page using containers, rows, and columns.
+        - Used buttons.
 ## TODO
 <html>
 <table>
@@ -156,7 +161,7 @@ Email: <maybe@udel.edu>
             <ul>
                 <li> Finished building tic-tac-toe following the <a href="https://reactjs.org/tutorial/tutorial.html">tutorial</a>. </li>
                 <li> Added some suggested features to tic-tac-toe such as showing locations of moves, bolding the current move, declaring a draw, etc. </li>
-                <li> Miscellaneous updates changes to tic-tac-toe </li>
+                <li> Miscellaneous updates & changes to tic-tac-toe </li>
                 <li> Learned how to deploy a React app </li>
                 <li> Added tests to ta-trainer (<a href="https://github.com/maybeep/ta-trainer-main">repository</a>) </li>
             </ul>
@@ -166,7 +171,9 @@ Email: <maybe@udel.edu>
         <td> 9/24/21 - 9/30/21 </td>
         <td>
             <ul>
-                <li>  </li>
+                <li> Made <a href="https://maybeep.github.io/mineral-quiz/">mineral quiz app</a> basically from scratch with the help of this <a href= "https://www.freecodecamp.org/news/how-to-build-a-quiz-app-using-react/">tutorial</a> </li>
+                <li> Learned how to use hooks, functions, TypeScript, Bootstrap </li>
+                <li> Played around with user interface design by mapping out my design for the quiz app on my iPad <img src="react-quiz.jpg" width="100px"/> </li>
             </ul>
         </td>
     </tr>
