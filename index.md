@@ -14,44 +14,6 @@ Email: <maybe@udel.edu>
 
 ## Technologies &amp; Concepts Mastered
 
-- **HTML** 
-    - I made an [HTML Reference Guide](html_site.html) in HTML. 
-    - I used tables to organize HTML tags with their explanations. 
-    - I learned about HTML escape characters so I could print tags such as &lt;strong&gt;. 
-    - I became comfortable with both block and inline nesting by emphasizing certain words, using tables, structuring my site using the &lt;head&gt; and &lt;body&gt; tags, etc.
-    - Learned about inline styles by making the tables have different background colors.
-
-- **CSS** 
-    - I made a pretty [website](https://maybeep.github.io/brian-site/brian_css.html) bragging about my dog Brian.
-    - I used &lt;style&gt; tags to add background color to the header and different sections of the body. Changed font and font size of the body text.
-    - Spent way too long figuring out how to horizontally align three images in the center of the page.
-    - Eventually learned the difference between padding and margins.
-    - Used percentages for image dimensions to make my site more responsive.
-    - Practiced responsive web design by making the images adjust with the size of the window.
-    - Added a menu that links to the different sections of the site.
-    - Made Brian's seal of approval spin in the [contact](https://maybeep.github.io/brian-site/brian_css.html#contact) section using CSS.
-
-- **JavaScript** 
-    - Followed a tutorial to make a basic whack-a-mole [game](https://maybeep.github.io/whack-a-mole/index.html).
-    - Followed this [tutorial](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=28874s) to make an image slider on my [site](https://maybeep.github.io/brian-site/brian_css.html) about Brian. Learned how to link a separate JavaScript file to my site. Combined CSS and JavaScript to make it look nice.
-
-- **Git**
-    - Learned in class on 9/9 that there is a local way of viewing my site. Before, I kept making extremely small edits, submitting to Git, waiting for my site to refresh, then finally reloading my site to see my change. This is obviously extremely inefficient compared to opening html_site.html locally and seeing my changes immediately. Now I can make Git commits often rather than *constantly*.
-
-- **TypeScript** 
-    - Wrote [mineral quiz app](https://maybeep.github.io/mineral-quiz/) in TypeScript rather than JavaScript.
-        - [Link to GitHub repository](https://github.com/maybeep/mineral-quiz).
-    - Key takeaways from TS [tutorial](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html):
-        - Thought it was interesting that Visual Studio Code uses TypeScript under the hood to make writing JavaScript easier.
-        - TypeScript is a superset of JavaScript meaning I can take working JS code and put it in a TS file. Then just follow the TS rules regarding types.
-        - TypseScript never changes the runtime behavior of JavaScript code which also allows for easy transition between the two.
-        - *"TypeScript is JavaScript's runtime with a compile-time type checker."* 
-        - Use `interface` declaration for objects and classes to set types as well as for annotating parameters and returning values to functions.
-        - TypeScript extends JavaScript's primitive types with `any`(bad!), `unknown`, `never`, and `undefined`.
-        - Unions declare that a type could be one of many. e.g. `type door_states = "open" &#124; "closed";`
-        - `typeof` returns the type of a variable; useful in functions that return different values depending on what is passed into it.
-        - Generics provide variables to types. For example, an array with generics explains what values it contains.
-
 - **React** 
     - Made a [mineral quiz app](https://maybeep.github.io/mineral-quiz/) with the help of several different websites but the general design is fully original (albeit not that creative).
         - Got comfortable with states; using them for the score, changing images, and questions.
@@ -69,6 +31,44 @@ Email: <maybe@udel.edu>
         - Each React element is a JavaScript object that you can store in a variable or pass around.
         - Information flows from parents to children.
         - Components use state to remember things
+
+- **TypeScript** 
+    - Wrote [mineral quiz app](https://maybeep.github.io/mineral-quiz/) in TypeScript rather than JavaScript.
+        - [Link to GitHub repository](https://github.com/maybeep/mineral-quiz).
+    - Key takeaways from TS [tutorial](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html):
+        - Thought it was interesting that Visual Studio Code uses TypeScript under the hood to make writing JavaScript easier.
+        - TypeScript is a superset of JavaScript meaning I can take working JS code and put it in a TS file. Then just follow the TS rules regarding types.
+        - TypseScript never changes the runtime behavior of JavaScript code which also allows for easy transition between the two.
+        - *"TypeScript is JavaScript's runtime with a compile-time type checker."* 
+        - Use `interface` declaration for objects and classes to set types as well as for annotating parameters and returning values to functions.
+        - TypeScript extends JavaScript's primitive types with `any`(bad!), `unknown`, `never`, and `undefined`.
+        - Unions declare that a type could be one of many. e.g. `type door_states = "open" &#124; "closed";`
+        - `typeof` returns the type of a variable; useful in functions that return different values depending on what is passed into it.
+        - Generics provide variables to types. For example, an array with generics explains what values it contains.
+
+- **JavaScript** 
+    - Followed a tutorial to make a basic whack-a-mole [game](https://maybeep.github.io/whack-a-mole/index.html).
+    - Followed this [tutorial](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=28874s) to make an image slider on my [site](https://maybeep.github.io/brian-site/brian_css.html) about Brian. Learned how to link a separate JavaScript file to my site. Combined CSS and JavaScript to make it look nice.
+
+- **HTML** 
+    - I made an [HTML Reference Guide](html_site.html) in HTML. 
+    - I used tables to organize HTML tags with their explanations. 
+    - I learned about HTML escape characters so I could print tags such as &lt;strong&gt;. 
+    - I became comfortable with both block and inline nesting by emphasizing certain words, using tables, structuring my site using the &lt;head&gt; and &lt;body&gt; tags, etc.
+    - Learned about inline styles by making the tables have different background colors.
+
+- **CSS** 
+    - I made a pretty [website](https://maybeep.github.io/brian-site/brian_css.html) bragging about my dog Brian.
+    - I used &lt;style&gt; tags to add background color to the header and different sections of the body. Changed font and font size of the body text.
+    - Spent way too long figuring out how to horizontally align three images in the center of the page.
+    - Eventually learned the difference between padding and margins.
+    - Used percentages for image dimensions to make my site more responsive.
+    - Practiced responsive web design by making the images adjust with the size of the window.
+    - Added a menu that links to the different sections of the site.
+    - Made Brian's seal of approval spin in the [contact](https://maybeep.github.io/brian-site/brian_css.html#contact) section using CSS.
+
+- **Git**
+    - Learned in class on 9/9 that there is a local way of viewing my site. Before, I kept making extremely small edits, submitting to Git, waiting for my site to refresh, then finally reloading my site to see my change. This is obviously extremely inefficient compared to opening html_site.html locally and seeing my changes immediately. Now I can make Git commits often rather than *constantly*.
 
 - **Etc.**
     - Used Bootstrap in [mineral quiz app](https://maybeep.github.io/mineral-quiz/).
